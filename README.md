@@ -1,6 +1,6 @@
 # YouTube-Sentiment-Analysis-Using-MLOps
 
-## DVC
+## DVC Commands
 
 dvc init
 
@@ -9,6 +9,6 @@ dvc repro -v
 dvc dag
 
 
-## AWS
+## AWS Command
 
 aws configure
